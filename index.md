@@ -32,6 +32,6 @@ This project shows that learning with a weak feedback signal is capable of produ
 
 ### Load forecasting using SVM. [paper](https://ieeexplore.ieee.org/abstract/document/1350819/)
 
-My first (or second?) research project (in 2001!) under the supervision [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/). In this project, we use SVM to predict the power needed to balance the supply and load for powerplants. Winner of the EUNITE competition 2001.
+My first (or second?) research project (in 2001!) under the supervision of [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/). In this project, we use SVM to predict the power needed to balance the supply and load for powerplants. Winner of the EUNITE competition 2001.
 
 
