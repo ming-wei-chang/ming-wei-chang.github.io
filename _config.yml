@@ -35,8 +35,6 @@ show_downloads: false
 plugins:
   - jekyll-feed
 
-github:
-  is_project_page: false
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
