@@ -31,6 +31,6 @@ The power of text understanding makes zero-shot entity linking finally possible.
 
 ### Load forecasting using SVM. [paper](https://ieeexplore.ieee.org/abstract/document/1350819/)
 
-My first (or second?) research project in 2001(!). Using SVM to predict the power needed to balance the supply and load for powerplants. Winner of the EUNITE competition 2001.
+My first (or second?) research project (in 2001!). Using SVM to predict the power needed to balance the supply and load for powerplants. Winner of the EUNITE competition 2001.
 
 
