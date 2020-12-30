@@ -9,13 +9,13 @@ layout: default
 
 My name is Ming-Wei Chang. I am currently a Research Scientist at Google Research, working on research problems related to machine learning, natural language processing and artificial intelligence in general.
 
-## Selected Projects ([Full List (Scholar)](https://scholar.google.com/citations?user=GiCqMFkAAAAJ&hl=en&oi=ao))
+## Selected Projects ([Publication List (Google Scholar)](https://scholar.google.com/citations?user=GiCqMFkAAAAJ&hl=en&oi=ao))
 
 Here are some fun projects I have worked on with many awesome researchers and students.
 
 ### **BERT**. [paper](https://arxiv.org/abs/1810.04805)
 
- BERT is a framework for pre-training deep bidirectional representations from unlabeled text. BERT achieves state-of-the-art results for 11 nlp tasks when it was published.
+BERT is a framework for pre-training deep bidirectional representations from unlabeled text. BERT achieves state-of-the-art results for 11 nlp tasks when it was published.
 (NAACL 2019 best paper)
 
 ### Zero-shot entity linking. [paper](https://arxiv.org/abs/1906.07348)
