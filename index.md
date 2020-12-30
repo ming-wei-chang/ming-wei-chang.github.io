@@ -11,7 +11,7 @@ My name is Ming-Wei Chang. I am currently a Research Scientist at Google Researc
 
 ## Selected Projects ([Full List (Scholar)](https://scholar.google.com/citations?user=GiCqMFkAAAAJ&hl=en&oi=ao))
 
-Here are some fun projects I have worked on.
+Here are some fun projects I have worked on with many awesome researchers and students.
 
 ### **BERT**. [paper](https://arxiv.org/abs/1810.04805)
 
