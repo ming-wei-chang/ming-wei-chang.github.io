@@ -18,7 +18,7 @@ Here are some of fun projects I have worked on.
  BERT is a framework for pre-training deep bidirectional representations from unlabeled text. BERT achieves state-of-the-art results for 11 nlp tasks when it was published.
 (NAACL 2019 best paper)
 
-### Zero-shot Entity linking. [paper](https://arxiv.org/abs/1906.07348)
+### Zero-shot entity linking. [paper](https://arxiv.org/abs/1906.07348)
 
 The power of text understanding makes zero-shot entity linking finally possible. (ACL 2019 best paper candidate)
 
