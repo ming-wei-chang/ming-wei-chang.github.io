@@ -15,7 +15,7 @@ Here are some of fun projects I have worked on.
 
 ### **BERT**. [paper](https://arxiv.org/abs/1810.04805)
 
- Pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. STOA for 11 tasks when it was published.
+ BERT is a framework for pre-training deep bidirectional representations from unlabeled text. BERT achieves state-of-the-art results for 11 nlp tasks when it was published.
 
 ### Load forecasting using SVM. [paper](https://ieeexplore.ieee.org/abstract/document/1350819/)
 
