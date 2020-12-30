@@ -24,8 +24,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-#theme: minima
-theme: jekyll-dash
+# theme: minima
+# theme: jekyll-dash
 remote_theme: bitbrain/jekyll-dash
 #theme: time-machine
 #theme: jekyll-theme-time-machine
