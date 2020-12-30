@@ -7,7 +7,7 @@ layout: default
 ---
 
 
-My name is Ming-Wei Chang. I am currently a Research Scientist at Google Research, working research problems related to machine learning, natural language processing and artificial intelligence in general.
+My name is Ming-Wei Chang. I am currently a Research Scientist at Google Research, working on research problems related to machine learning, natural language processing and artificial intelligence in general.
 
 ## Selected Projects ([Full List (Scholar)](https://scholar.google.com/citations?user=GiCqMFkAAAAJ&hl=en&oi=ao))
 
