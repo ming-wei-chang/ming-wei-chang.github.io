@@ -17,10 +17,6 @@ Here are some of fun projects I have worked on.
 
  BERT is a framework for pre-training deep bidirectional representations from unlabeled text. BERT achieves state-of-the-art results for 11 nlp tasks when it was published.
 
-### Load forecasting using SVM. [paper](https://ieeexplore.ieee.org/abstract/document/1350819/)
-
-One of my first research projects. Using SVM to predict the power needed to balance the supply and load for powerplants. Winner of the EUNITE competition 2001.
-
 ### Zero-shot Entity linking. [paper](https://arxiv.org/abs/1906.07348)
 
 The power of text understanding makes zero-shot entity linking finally possible. 
@@ -32,4 +28,9 @@ The power of text understanding makes zero-shot entity linking finally possible.
 ### Semantic parsing using weak supervision. [paper](https://www.aclweb.org/anthology/W10-2903.pdf)
 
    Shows that learning with a weak feedback signal is capable of producing strong semantic parsers for the first time.
+
+### Load forecasting using SVM. [paper](https://ieeexplore.ieee.org/abstract/document/1350819/)
+
+My first (or second?) research project in 2001(!). Using SVM to predict the power needed to balance the supply and load for powerplants. Winner of the EUNITE competition 2001.
+
 
