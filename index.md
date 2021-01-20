@@ -13,7 +13,7 @@ My name is Ming-Wei Chang. I am currently a Research Scientist at Google Researc
 
 ### AI Textbook
 
-I am really honored to help write the Chapter 24 in the forth edition Artificial Intelligence: A Modern Approach [link](http://aima.cs.berkeley.edu/ack.html)
+I am really honored to help write the Chapter 24 in the forth edition of the Artificial Intelligence: A Modern Approach [link](http://aima.cs.berkeley.edu/ack.html)
 
 ## Selected Projects ([Publication List (Google Scholar)](https://scholar.google.com/citations?user=GiCqMFkAAAAJ&hl=en&oi=ao))
 
