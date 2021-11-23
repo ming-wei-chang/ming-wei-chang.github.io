@@ -7,7 +7,7 @@ layout: default
 ---
 
 
-<img style="float: left;" src="anime_gan_p.png"> My name is Ming-Wei Chang. I am currently a Research Scientist at Google Research, working on research problems related to machine learning, natural language processing and artificial intelligence in general.
+<img style="float: left;width: 150px;" src="anime_gan_p.png"> My name is Ming-Wei Chang. I am currently a Research Scientist at Google Research, working on research problems related to machine learning, natural language processing and artificial intelligence in general.
 
 ## News
 
