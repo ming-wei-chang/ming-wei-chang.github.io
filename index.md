@@ -7,17 +7,31 @@ layout: default
 ---
 
 
-<img style="float: right;width: 150px; margin-left: 50px;" src="anime_gan_p.png"> My name is Ming-Wei Chang. I am currently a Research Scientist at Google Research, working on research problems related to machine learning, natural language processing and artificial intelligence in general.
+<img style="float: right;width: 150px; margin-left: 50px;" src="anime_gan_p.png"> My name is Ming-Wei Chang. I am currently a Research Scientist at Google Research, working on fun research problems related to machine learning and artificial intelligence!
+
+[Twitter](https://twitter.com/mchang21)
+
+[Semantic Scholar](https://www.semanticscholar.org/author/Ming-Wei-Chang/1744179)
 
 ## News
-
-### AI Textbook
-
-I am really honored to help write the Chapter 24 in the fourth edition of the Artificial Intelligence: A Modern Approach [link](http://aima.cs.berkeley.edu/ack.html)
+- FRUIT won the NAACL 2022 best new task paper.
+- Co-wrote the deep learning for NLP chapter in the 4-th edition [AI:A Modern Approach](http://aima.cs.berkeley.edu/ack.html)
 
 ## Selected Projects ([Publication List (Google Scholar)](https://scholar.google.com/citations?user=GiCqMFkAAAAJ&hl=en&oi=ao))
 
 Here are some fun projects I have worked on with many awesome researchers and students.
+
+### **Pix2Struct**. [paper](https://arxiv.org/pdf/2210.03347.pdf)
+
+It is possible to parse an website from pixels only. 
+
+### **Promptagator**. [paper](https://arxiv.org/pdf/2209.11755.pdf)
+
+Propose the first task-specific prompt for retrieval. Eight examples are enough for buidling a pretty good retriever!
+
+### **FRUIT** [paper](https://aclanthology.org/2022.naacl-main.269.pdf)
+
+FRUIT is a new task about updating text information in Wikipedia. A really fun project! (NAACL 2022 best new task paper)
 
 ### **BERT**. [paper](https://arxiv.org/abs/1810.04805)
 
@@ -38,6 +52,6 @@ This project shows that learning with a weak feedback signal is capable of produ
 
 ### Load forecasting using SVM. [paper](https://ieeexplore.ieee.org/abstract/document/1350819/)
 
-My first (or second?) research project (in 2001!) under the supervision of [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/). In this project, we use SVM to predict the power needed to balance the supply and load for powerplants. Winner of the EUNITE competition 2001.
+My first (or second?) research project (in 2001!) under the supervision of the amazing [Chih-Jen Lin](https://www.csie.ntu.edu.tw/~cjlin/). In this project, we use SVM to predict the power needed to balance the supply and load for powerplants. Winner of the EUNITE competition 2001.
 
 
