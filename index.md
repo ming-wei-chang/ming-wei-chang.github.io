@@ -11,21 +11,23 @@ layout: default
 
 [Twitter](https://twitter.com/mchang21)
 
+[Google Scholar](https://scholar.google.com/citations?user=GiCqMFkAAAAJ&hl=en&oi=ao)
+
 [Semantic Scholar](https://www.semanticscholar.org/author/Ming-Wei-Chang/1744179)
 
 ## News
 - FRUIT won the NAACL 2022 best new task paper.
 - Co-wrote the deep learning for NLP chapter in the 4-th edition [AI:A Modern Approach](http://aima.cs.berkeley.edu/ack.html)
 
-## Selected Projects ([Publication List (Google Scholar)](https://scholar.google.com/citations?user=GiCqMFkAAAAJ&hl=en&oi=ao))
+## Selected Projects ([Full List](https://scholar.google.com/citations?user=GiCqMFkAAAAJ&hl=en&oi=ao))
 
 Here are some fun projects I have worked on with many awesome researchers and students.
 
-### **Pix2Struct**. [paper](https://arxiv.org/pdf/2210.03347.pdf)
+### **Pix2Struct**. [paper](https://arxiv.org/abs/2210.03347.pdf)
 
 It is possible to parse an website from pixels only. 
 
-### **Promptagator**. [paper](https://arxiv.org/pdf/2209.11755.pdf)
+### **Promptagator**. [paper](https://arxiv.org/abs/2209.11755.pdf)
 
 Propose the first task-specific prompt for retrieval. Eight examples are enough for buidling a pretty good retriever!
 
