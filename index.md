@@ -7,7 +7,8 @@ layout: default
 ---
 
 
-<img style="float: right;width: 150px; margin-left: 50px;" src="anime_gan_p.png"> My name is Ming-Wei Chang. I am currently a Research Scientist at Google Research, working on fun research problems related to machine learning and artificial intelligence!
+<img style="float: right;width: 150px; margin-left: 50px;" src="anime_gan_p.png"> My name is Ming-Wei Chang. I am currently a Research Scientist at <img style="width: 100px" src="https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/64521a4735631982eef1813e_logo.svg" alt="Google Deepmind">
+, working on fun research problems related to machine learning and artificial intelligence!
 
 [Twitter](https://twitter.com/mchang21)
 
@@ -16,12 +17,21 @@ layout: default
 [Semantic Scholar](https://www.semanticscholar.org/author/Ming-Wei-Chang/1744179)
 
 ## News
+- [QUEST](https://arxiv.org/abs/2305.11694) is one of the ACL 2023 outstanding papers.
 - FRUIT won the NAACL 2022 best new task paper.
 - Co-wrote the deep learning for NLP chapter in the 4-th edition [AI:A Modern Approach](http://aima.cs.berkeley.edu/ack.html)
 
 ## Selected Projects ([Full List](https://scholar.google.com/citations?user=GiCqMFkAAAAJ&hl=en&oi=ao))
 
 Here are some fun projects I have worked on with many awesome researchers and students.
+
+### **OVEN** and **InfoSeek**. [project1](https://open-vision-language.github.io/oven/) [project2](https://open-vision-language.github.io/infoseek/)
+
+Can you pretrained models understand textual and visual knowledge at the *same* time?
+
+### **SUTI** [paper](https://arxiv.org/abs/2304.00186)
+
+Dreambooth with in-context learning (no fine-tuning required!)
 
 ### **Pix2Struct**. [paper](https://arxiv.org/abs/2210.03347.pdf)
 
